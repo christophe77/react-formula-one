@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-formula-one/static/css/main.d9040880.css",
+    "main.js": "/react-formula-one/static/js/main.e4d87caf.js",
+    "static/media/Formula1-Wide.otf": "/react-formula-one/static/media/Formula1-Wide.a4c5c2d90298960f0e82.otf",
+    "static/media/Formula1-Bold.otf": "/react-formula-one/static/media/Formula1-Bold.94489425e19896648254.otf",
+    "static/media/Formula1-Regular.otf": "/react-formula-one/static/media/Formula1-Regular.a5336cac9ba0fc563d1e.otf",
+    "index.html": "/react-formula-one/index.html",
+    "main.d9040880.css.map": "/react-formula-one/static/css/main.d9040880.css.map",
+    "main.e4d87caf.js.map": "/react-formula-one/static/js/main.e4d87caf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9040880.css",
+    "static/js/main.e4d87caf.js"
+  ]
+}
